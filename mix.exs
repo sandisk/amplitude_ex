@@ -28,7 +28,7 @@ defmodule Amplitude.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:httpoison, "~> 1.5.0"},
+      {:httpoison, "~> 1.3.0"},
       {:poison, "~> 3.1.0"} 
     ]
   end
